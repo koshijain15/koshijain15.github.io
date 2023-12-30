@@ -1,0 +1,36 @@
+li{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-family: 'Comic Sans MS',cursive;
+}
+#p1{
+	width: "90%";
+	margin: 20px;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: lightgrey;
+	font-size: 120%;
+}
+#p2{
+	width: "90%";
+	margin: 20px;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: lightgrey;
+	font-size: 120%;
+}
+#p3{
+	width: "90%";
+	margin: 20px;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: lightgrey;
+	font-size: 120%;
+}
+#title{
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+}
